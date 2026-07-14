@@ -8,10 +8,10 @@
     // --- 1. DEFINICIÓN DE IMÁGENES ---
     // MAPA DE IMÁGENES DE EJEMPLO 
     const characterImages = {
-        'mario': 'imagenes/mario.jpg',
-        'bowser':  'imagenes/bowser.jpg',
-        'toad':  'imagenes/toad.jpg',
-        'peach':  'imagenes/peach.jpg',
+        'mario': 'imagenes/Mario.jpg',
+        'bowser':  'imagenes/Bowser.jpg',
+        'toad':  'imagenes/Toad.jpg',
+        'peach':  'imagenes/Peach.jpg',
     };
 
     function updateInterface() {
